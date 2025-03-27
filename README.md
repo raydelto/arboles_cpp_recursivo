@@ -1,12 +1,12 @@
 Notación asintótica.  
 
-Las complejidades asint¢ticas m s frecuentes son las siguientes:
+Las complejidades asintóticas m s frecuentes son las siguientes:
 
-Complejidad lineal O(N): La cantidad de pasos requeridos para generar una respuesta, es igual al tama¤o de la entrada.
+Complejidad lineal O(N): La cantidad de pasos requeridos para generar una respuesta, es igual al tamaño de la entrada.
 
-Complejidad cuadrada O(N^2): La cantidad de pasos requeridos para generar una respuesta es igual al tama¤o de la entrada elevado al cuadrado.
+Complejidad cuadrada O(N^2): La cantidad de pasos requeridos para generar una respuesta es igual al tamaño de la entrada elevado al cuadrado.
 
-Complejidad cúbica O(N^3): La cantidad de pasos requeridos para generar una respuesta es igual al tama¤o de la entrada elevado al cubo.
+Complejidad cúbica O(N^3): La cantidad de pasos requeridos para generar una respuesta es igual al tamaño de la entrada elevado al cubo.
 
 Complejidad logarítmica O(Log(N)): La cantidad de pasos requeridos para generar una respuesta es igual al logaritmo en base 2 de N.
 
@@ -20,7 +20,7 @@ La utilidad de las funciones recursivas es la capacidad de poder mantener la cue
 
 Arboles:
 
-Los árboles son estructuras de datos jer rquicas, donde existe un solo nodo raíz (que no tiene padre). Los nodos que no tienen hijos se les llama hojas.
+Los árboles son estructuras de datos jerárquicas, donde existe un solo nodo raíz (que no tiene padre). Los nodos que no tienen hijos se les llama hojas.
 
 Podemos recorrer los árboles mediante algoritmos recursivos.
 
